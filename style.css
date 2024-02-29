@@ -1,0 +1,37 @@
+body{
+	background: lightcyan;
+	margin: 50px;
+	background-image: url(bg.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%100%;
+	background-attachment: fixed;
+	color: white;
+
+}
+.heading1{
+	background: green;
+	color: white;
+	font-family: arial;
+	text-align: center;
+	margin-top: 40px;
+	margin-right: 25px;
+	margin-bottom: 30px;
+	margin-left: 25px;
+}
+p{
+	text-align: justify;
+	margin: 20px 50px;
+}
+.para{
+	color: blueviolet;
+	background: beige;
+	text-align: justify;
+}
+#para{
+	text-align: justify;
+	color: green;
+	background: pink;
+}
+a{
+	color: black;
+}
